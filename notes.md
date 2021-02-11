@@ -98,7 +98,7 @@ TODO:
 - [x] Wat er nu is in de functie gaat in `try`
 - [x] Veroorzaak een error -> check de error
 - [x] Maak een error message (string)
-- [ ] Element maken
-- [ ] textContent setten naar de error message
-- [ ] gallery selecteren
-- [ ] Appenden aan de gallery
+- [x] Element maken
+- [x] textContent setten naar de error message
+- [x] gallery selecteren
+- [x] Appenden aan de gallery
