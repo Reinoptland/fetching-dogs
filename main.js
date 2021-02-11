@@ -1,5 +1,6 @@
 async function whoLetTheDogsOut() {
   try {
+    // display spinner here
     const response = await axios.get(
       "https://dog.ceo/api/breed/schnauzer/images"
     );
@@ -26,6 +27,7 @@ async function whoLetTheDogsOut() {
       gallery.appendChild(errorElement);
     }
   }
+  // remove spinner here
 }
 
 whoLetTheDogsOut();

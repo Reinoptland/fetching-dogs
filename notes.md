@@ -106,7 +106,7 @@ TODO:
 ## Stappen SHOW LOADING
 
 - [x] We moeten spinner hebben! (gifje?)
-- [ ] Start en eindpunt bepalen
+- [x] Start en eindpunt bepalen
 - [ ] Spinner toevoegen aan html
   - [ ] Loading -> spinner laten zien
     - [ ] CSS class maken -> display: block
