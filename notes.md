@@ -38,6 +38,7 @@ Duurt even
 ## Error handling!
 
 - try / catch in javascript
+  - try en catch hebben een local scope
 - try -> code voor als alles lukt
   - De app laten werken (de data laten zien)
 - catch -> code voor als het niet lukt!
@@ -51,7 +52,7 @@ Duurt even
 - [x] async function maken!
 - [x] GET request maken -> axios.get(url)
 - [x] await de PROMISE die terug krijgen
-- [ ] De response aan de gebruiker laten zien (happy path)
+- [x] De response aan de gebruiker laten zien (happy path)
 - [ ] Error handling (unhappy path) -> try catch
 - [ ] Error laten zien aan de gebruiker
 
