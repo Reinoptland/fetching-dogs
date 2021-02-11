@@ -77,8 +77,9 @@ TODO:
 - [x] NPM init
 - [x] Axios installeren
 - [x] URL opzoeken: https://dog.ceo/api/breed/schnauzer/images
-- [ ] Async function
-- [ ] Aanroepen van de functie
+- [x] Async function
+- [x] Aanroepen van de functie
+- [x] Axios script importeren
 - [ ] GET request maken
 - [ ] Promise awaiten
 - [ ] Response checken (wat voor data krijgen we)
