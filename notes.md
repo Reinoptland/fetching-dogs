@@ -53,10 +53,11 @@ Duurt even
 - [x] GET request maken -> axios.get(url)
 - [x] await de PROMISE die terug krijgen
 - [x] De response aan de gebruiker laten zien (happy path)
-- [ ] Error handling (unhappy path) -> try catch
-- [ ] Error laten zien aan de gebruiker
+- [x] Error handling (unhappy path) -> try catch
+- [x] Error laten zien aan de gebruiker
 
 TODO:
 
 - URI vs URL
 - Commit all the things?
+- CORS

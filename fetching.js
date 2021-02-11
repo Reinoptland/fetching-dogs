@@ -7,9 +7,12 @@ async function letKanyeSpeakWisdom(urlToRequest) {
   //   console.log("HI!", urlToRequest);
   try {
     const response = await axios.get(urlToRequest);
-    //   console.log("STATUS:", response.status, "DATA:", response.data);
+    console.log("STATUS:", response.status, "DATA:", response.data);
     console.log(`KANYE SAYS: ${response.data}`);
-  } catch (error) {}
+  } catch (error) {
+    console.log(error); // HEEL BASIC
+    console.log("RESPONSE:", error.response.status, error.response.statusText);
+  }
 }
 
 // argument
