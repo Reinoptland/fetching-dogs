@@ -88,9 +88,9 @@ TODO:
 - [x] Element aanmaken: `<img />` ()
 - [x] src toevoegen -> `<img src="URL HERE">`
 - [x] alt toevoegen (voor mensen die niet kunnen zien)
-- [ ] List element maken in de HTML (met een id)
-- [ ] List selecteren
-- [ ] Appenden -> List.append(img)
+- [x] List element maken in de HTML (met een id)
+- [x] List selecteren
+- [x] Appenden -> List.append(img)
 
 ## Stappen plan SHOW ERROR
 
