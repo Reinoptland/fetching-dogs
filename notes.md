@@ -59,5 +59,38 @@ Duurt even
 TODO:
 
 - URI vs URL
-- Commit all the things?
-- CORS
+- Commit all the things? -> per feature
+- CORS -> CROSS ORIGIN RESOURCE SHARING: \
+
+## Features
+
+- Fetch dogs -> Show images (on a webpage)
+- Show error -> So (drunk) users don't call support
+- Show loading -> So (drunk) users don't click away
+
+## Stappen plan SHOW
+
+- [ ] HTML bestand
+- [ ] JS bestand
+- [ ] CSS bestand
+- [ ] Koppelen (link, script)
+- [x] NPM init
+- [x] Axios installeren
+- [x] URL opzoeken: https://dog.ceo/api/breed/schnauzer/images
+- [ ] Async function
+- [ ] Aanroepen van de functie
+- [ ] GET request maken
+- [ ] Promise awaiten
+- [ ] Response checken (wat voor data krijgen we)
+- [ ] Loop over de array
+- [ ] Voor elke string (imageUrl)
+- [ ] Element aanmaken: `<img />`
+- [ ] src toevoegen -> `<img src="URL HERE">`
+- [ ] alt toevoegen (voor mensen die niet kunnen zien)
+- [ ] List element maken in de HTML (met een id)
+- [ ] List selecteren
+- [ ] Appenden -> List.append(img)
+
+## Stappen plan SHOW ERROR
+
+- [ ] try / catch
