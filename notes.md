@@ -94,4 +94,11 @@ TODO:
 
 ## Stappen plan SHOW ERROR
 
-- [ ] try / catch
+- [ ] try / catch toevoegen
+- [ ] Wat er nu is in de functie gaat in `try`
+- [ ] Veroorzaak een error -> check de error
+- [ ] Maak een error message (string)
+- [ ] Element maken
+- [ ] textContent setten naar de error message
+- [ ] gallery selecteren
+- [ ] Appenden aan de gallery
