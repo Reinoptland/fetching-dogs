@@ -55,4 +55,7 @@ Duurt even
 - [ ] Error handling (unhappy path) -> try catch
 - [ ] Error laten zien aan de gebruiker
 
-TODO: URI vs URL
+TODO:
+
+- URI vs URL
+- Commit all the things?
