@@ -16,10 +16,12 @@ async function whoLetTheDogsOut() {
     console.log("ERROR RESPONSE:", error.response);
     if (error.message === "Network Error") {
       console.log("GEEN INTERNET?");
-      const message = "Je hebt geen internet";
+      const message = "Je hebt geen internet, probeer een refresh!";
       const errorElement = document.createElement("h1");
       errorElement.textContent = message;
       console.log(errorElement);
+      const gallery = document.getElementById("dogGallery");
+      gallery.appendChild(errorElement);
     }
   }
 }
