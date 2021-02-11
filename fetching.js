@@ -7,7 +7,7 @@ async function letKanyeSpeakWisdom(urlToRequest) {
   //   console.log("HI!", urlToRequest);
   try {
     const response = await axios.get(urlToRequest);
-    console.log("STATUS:", response.status, "DATA:", response.data);
+    // console.log("STATUS:", response.status, "DATA:", response.data);
     console.log(`KANYE SAYS: ${response.data}`);
   } catch (error) {
     console.log(error); // HEEL BASIC
@@ -15,9 +15,13 @@ async function letKanyeSpeakWisdom(urlToRequest) {
   }
 }
 
-// argument
-letKanyeSpeakWisdom(url);
+async function waitForKanye() {
+  // argument
+  await letKanyeSpeakWisdom(url); // we halen de data op, ga maar verder!
+  console.log("KANYE HAS SPOKEN!");
+}
 
+waitForKanye();
 // try {
 //   const kanye = "West";
 //   // local scope
