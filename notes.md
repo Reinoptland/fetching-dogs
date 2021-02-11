@@ -47,8 +47,8 @@ Duurt even
 
 - [x] Axios installeren
 - [x] Axios importeren
-- [ ] URL / URI opzoeken van de api: "https://api.kanye.rest?format=text"
-- [ ] async function maken!
+- [x] URL / URI opzoeken van de api: "https://api.kanye.rest?format=text"
+- [x] async function maken!
 - [ ] GET request maken -> axios.get(url)
 - [ ] await de PROMISE die terug krijgen
 - [ ] De response aan de gebruiker laten zien (happy path)
