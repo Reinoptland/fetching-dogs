@@ -94,4 +94,23 @@ TODO:
 
 ## Stappen plan SHOW ERROR
 
-- [ ] try / catch
+- [x] try / catch toevoegen
+- [x] Wat er nu is in de functie gaat in `try`
+- [x] Veroorzaak een error -> check de error
+- [x] Maak een error message (string)
+- [x] Element maken
+- [x] textContent setten naar de error message
+- [x] gallery selecteren
+- [x] Appenden aan de gallery
+
+## Stappen SHOW LOADING
+
+- [x] We moeten spinner hebben! (gifje?)
+- [x] Start en eindpunt bepalen
+- [x] Spinner toevoegen aan html
+  - [x] Loading -> spinner laten zien
+    - [ ] CSS class maken -> display: block (not needed?)
+    - [x] class toevoegen aan de spinner (JS getElement -> setAttribute / classList.add)
+  - [x] Succes / Error -> spinner weghalen:
+    - [x] CSS -> display: none
+    - [x] class toevoegen aan de spinner
