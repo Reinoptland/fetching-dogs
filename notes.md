@@ -85,8 +85,8 @@ TODO:
 - [x] Response checken (wat voor data krijgen we)
 - [x] Loop over de array
 - [x] Voor elke string (imageUrl)
-- [ ] Element aanmaken: `<img />`
-- [ ] src toevoegen -> `<img src="URL HERE">`
+- [x] Element aanmaken: `<img />` ()
+- [x] src toevoegen -> `<img src="URL HERE">`
 - [ ] alt toevoegen (voor mensen die niet kunnen zien)
 - [ ] List element maken in de HTML (met een id)
 - [ ] List selecteren
