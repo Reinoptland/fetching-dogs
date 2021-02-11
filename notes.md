@@ -83,8 +83,8 @@ TODO:
 - [x] GET request maken
 - [x] Promise awaiten
 - [x] Response checken (wat voor data krijgen we)
-- [ ] Loop over de array
-- [ ] Voor elke string (imageUrl)
+- [x] Loop over de array
+- [x] Voor elke string (imageUrl)
 - [ ] Element aanmaken: `<img />`
 - [ ] src toevoegen -> `<img src="URL HERE">`
 - [ ] alt toevoegen (voor mensen die niet kunnen zien)
