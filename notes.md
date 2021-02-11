@@ -70,10 +70,10 @@ TODO:
 
 ## Stappen plan SHOW
 
-- [ ] HTML bestand
-- [ ] JS bestand
-- [ ] CSS bestand
-- [ ] Koppelen (link, script)
+- [x] HTML bestand
+- [x] JS bestand
+- [x] CSS bestand
+- [x] Koppelen (link, script)
 - [x] NPM init
 - [x] Axios installeren
 - [x] URL opzoeken: https://dog.ceo/api/breed/schnauzer/images
