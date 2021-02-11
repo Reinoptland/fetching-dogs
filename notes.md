@@ -109,8 +109,8 @@ TODO:
 - [x] Start en eindpunt bepalen
 - [x] Spinner toevoegen aan html
   - [ ] Loading -> spinner laten zien
-    - [ ] CSS class maken -> display: block
+    - [ ] CSS class maken -> display: block (not needed?)
     - [ ] class toevoegen aan de spinner (JS getElement -> setAttribute / classList.add)
   - [ ] Succes / Error -> spinner weghalen:
-    - [ ] CSS -> display: none
+    - [x] CSS -> display: none
     - [ ] class toevoegen aan de spinner
