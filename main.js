@@ -1,6 +1,10 @@
 async function whoLetTheDogsOut() {
+  const spinner = document.getElementById("spinner");
+
   try {
     // display spinner here
+    spinner.removeAttribute("class");
+
     const response = await axios.get(
       "https://dog.ceo/api/breed/schnauzer/images"
     );
@@ -28,6 +32,7 @@ async function whoLetTheDogsOut() {
     }
   }
   // remove spinner here
+  spinner.setAttribute("class", "hideSpinner");
 }
 
 whoLetTheDogsOut();
