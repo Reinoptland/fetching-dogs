@@ -102,3 +102,15 @@ TODO:
 - [x] textContent setten naar de error message
 - [x] gallery selecteren
 - [x] Appenden aan de gallery
+
+## Stappen SHOW LOADING
+
+- [x] We moeten spinner hebben! (gifje?)
+- [ ] Start en eindpunt bepalen
+- [ ] Spinner toevoegen aan html
+  - [ ] Loading -> spinner laten zien
+    - [ ] CSS class maken -> display: block
+    - [ ] class toevoegen aan de spinner (JS getElement -> setAttribute / classList.add)
+  - [ ] Succes / Error -> spinner weghalen:
+    - [ ] CSS -> display: none
+    - [ ] class toevoegen aan de spinner
