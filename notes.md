@@ -80,9 +80,9 @@ TODO:
 - [x] Async function
 - [x] Aanroepen van de functie
 - [x] Axios script importeren
-- [ ] GET request maken
-- [ ] Promise awaiten
-- [ ] Response checken (wat voor data krijgen we)
+- [x] GET request maken
+- [x] Promise awaiten
+- [x] Response checken (wat voor data krijgen we)
 - [ ] Loop over de array
 - [ ] Voor elke string (imageUrl)
 - [ ] Element aanmaken: `<img />`
