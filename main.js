@@ -11,7 +11,10 @@ async function whoLetTheDogsOut() {
     const dogImage = document.createElement("img");
     dogImage.setAttribute("src", imageUrl);
     dogImage.setAttribute("alt", "a cute schnauzer");
-    console.log(dogImage);
+    // console.log(dogImage);
+    const gallery = document.getElementById("dogGallery");
+    console.log("GALLERY", gallery);
+    gallery.appendChild(dogImage);
   }
 }
 

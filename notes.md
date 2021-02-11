@@ -87,7 +87,7 @@ TODO:
 - [x] Voor elke string (imageUrl)
 - [x] Element aanmaken: `<img />` ()
 - [x] src toevoegen -> `<img src="URL HERE">`
-- [ ] alt toevoegen (voor mensen die niet kunnen zien)
+- [x] alt toevoegen (voor mensen die niet kunnen zien)
 - [ ] List element maken in de HTML (met een id)
 - [ ] List selecteren
 - [ ] Appenden -> List.append(img)
