@@ -107,7 +107,7 @@ TODO:
 
 - [x] We moeten spinner hebben! (gifje?)
 - [x] Start en eindpunt bepalen
-- [ ] Spinner toevoegen aan html
+- [x] Spinner toevoegen aan html
   - [ ] Loading -> spinner laten zien
     - [ ] CSS class maken -> display: block
     - [ ] class toevoegen aan de spinner (JS getElement -> setAttribute / classList.add)
